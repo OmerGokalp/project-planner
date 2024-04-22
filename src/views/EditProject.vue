@@ -58,7 +58,7 @@ label {
 input {
   padding: 10px;
   border: 0;
-  border: 2px solid #838282;
+  border: 2px solid #8d8c8c;
   width: 100%;
   box-sizing: border-box;
 }
